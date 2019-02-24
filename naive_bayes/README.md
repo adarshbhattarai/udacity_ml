@@ -61,5 +61,20 @@ pos    P(c) -- mul P (Pos|c)-->  P(Pos,c) Positive cancer hypothesis
        if we add these up, posterior probability , it will sum to one.
 
 This is BAYES  RULE::
+
+1) Naive Bayes mini Project
+--install pip (If you dont have one)
+--go to your terminal line (don’t open python, just the command prompt)
+--install sklearn: pip install scikit-learn
+   -- for your reference, here’s the sklearn installation instructions
+--install natural language toolkit: pip install nltk
+--Get the Intro to Machine Learning source code. You will need git to clone the repository: git clone https://github.com/udacity/ud120-projects.git
+
+"You only have to do this once, the code base contains the starter code for all the mini-projects. Go into the tools/ directory, and run startup.py. It will first check for the python modules, then download and unzip a large dataset that we will use heavily later. The download/unzipping can take a while, but you don’t have to wait for it to finish in order to get started on Part 1."
+
+
+
+
+
 Adarsh
 
