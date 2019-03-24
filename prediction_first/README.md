@@ -1,3 +1,5 @@
+Chapter 1
+----------
 
 Naive Bayes Algorithm
 

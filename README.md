@@ -1,3 +1,23 @@
+
+Delt with Chapters in the following order.
+
+1) Naive Bayes
+2) SVM
+3) Decision Trees
+4) Choose your wown algorithm
+5) DataSets and Questions.
+
+
+Follow Folders under projects as well. As it is where most of the things are implemented.
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+Below here is supposed to be under naive bayes (folders prediction first / accuracy_second (GaussianNB)). 
+But it is okay. (Russell Peters)Take it and go. Think of it as intro . But it actually describes the 
+problem , Cancer test, test who have the cancer and who don't. well whatev.
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+
 Cancer Test
 ------------
 
@@ -71,8 +91,6 @@ This is BAYES  RULE::
 --Get the Intro to Machine Learning source code. You will need git to clone the repository: git clone https://github.com/udacity/ud120-projects.git
 
 "You only have to do this once, the code base contains the starter code for all the mini-projects. Go into the tools/ directory, and run startup.py. It will first check for the python modules, then download and unzip a large dataset that we will use heavily later. The download/unzipping can take a while, but you don’t have to wait for it to finish in order to get started on Part 1."
-
-
 
 
 

@@ -1,3 +1,6 @@
+Chapter 3
+-----------
+
 Decision Trees
 ---------------
 
